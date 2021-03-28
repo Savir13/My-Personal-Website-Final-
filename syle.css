@@ -1,0 +1,23 @@
+h3 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: black;
+
+}
+
+p {
+    text-align: justify;
+    line-height: 1.3;
+}
+
+body {
+    background-image: url(4c65f913798dcd566fb929d0973a37e6.jpg);
+    padding:10px 70px;
+}
+
+h2{
+    text-align: center;
+}
